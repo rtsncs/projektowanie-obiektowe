@@ -25,3 +25,17 @@
 :x: 5.0 Stworzenie panelu administracyjnego z mockowanym logowaniem
 
 [Kod](https://github.com/rtsncs/projektowanie-obiektowe/tree/master/2_symfony)
+
+**Zadanie 3** Kotlin
+
+:white_check_mark: 3.0 [Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot](https://github.com/rtsncs/projektowanie-obiektowe/commit/ed58a31ebf9f288cac73969b62d6c4e35f9de1b8)
+
+:white_check_mark: 3.5 [Należy stworzyć klasę do autoryzacji (mock) jako Singleton w formie eager](https://github.com/rtsncs/projektowanie-obiektowe/commit/ed58a31ebf9f288cac73969b62d6c4e35f9de1b8)
+
+:white_check_mark: 4.0 [Należy obsłużyć dane autoryzacji przekazywane przez użytkownika](https://github.com/rtsncs/projektowanie-obiektowe/commit/ed58a31ebf9f288cac73969b62d6c4e35f9de1b8)
+
+:white_check_mark: 4.5 [Należy wstrzyknąć singleton do głównej klasy via @Autowired](https://github.com/rtsncs/projektowanie-obiektowe/commit/ed58a31ebf9f288cac73969b62d6c4e35f9de1b8)
+
+:white_check_mark: 5.0 [Obok wersji Eager do wyboru powinna być wersja Singletona w wersji lazy](https://github.com/rtsncs/projektowanie-obiektowe/commit/ed58a31ebf9f288cac73969b62d6c4e35f9de1b8)
+
+[Kod](https://github.com/rtsncs/projektowanie-obiektowe/tree/master/3_kotlin)
