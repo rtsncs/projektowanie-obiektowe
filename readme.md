@@ -54,3 +54,17 @@
 
 [Kod](https://github.com/rtsncs/projektowanie-obiektowe/tree/master/4_go)
 
+**Zadanie 5** React
+
+:white_check_mark: 3.0 [W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej;](https://github.com/rtsncs/ebiznes/commit/6a33de36ac97fbca96217d290bf89c47e31dfb07)
+
+:white_check_mark: 3.5 [Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing](https://github.com/rtsncs/ebiznes/commit/6a33de36ac97fbca96217d290bf89c47e31dfb07)
+
+:white_check_mark: 4.0 [Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks](https://github.com/rtsncs/ebiznes/commit/6a33de36ac97fbca96217d290bf89c47e31dfb07)
+
+:x: 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose
+
+:x: 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS
+
+[Kod](https://github.com/rtsncs/projektowanie-obiektowe/tree/master/5_react)
+
