@@ -68,3 +68,16 @@
 
 [Kod](https://github.com/rtsncs/projektowanie-obiektowe/tree/master/5_react)
 
+**Zadanie 6** Sonar
+
+:white_check_mark: 3.0 [Należy dodać eslint w hookach gita](https://github.com/rtsncs/shop-frontend/commit/1b6588e9b74c77df6610df750ff9b613036c962f)
+
+:white_check_mark: 3.5 [Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji klienckiej)](https://github.com/rtsncs/shop-frontend/commit/ae102e4a79073dbe47a4709295a4f32e7daf3795)
+
+:white_check_mark: 4.0 [Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod aplikacji klienckiej)](https://github.com/rtsncs/shop-frontend/commit/ae102e4a79073dbe47a4709295a4f32e7daf3795)
+
+:white_check_mark: 4.5 [Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji klienckiej)](https://github.com/rtsncs/shop-frontend/commit/ae102e4a79073dbe47a4709295a4f32e7daf3795)
+
+:white_check_mark: 5.0 [Zredukować duplikaty kodu do 0%](https://github.com/rtsncs/shop-frontend/commit/ae102e4a79073dbe47a4709295a4f32e7daf3795)
+
+[Kod](https://github.com/rtsncs/shop-frontend)
