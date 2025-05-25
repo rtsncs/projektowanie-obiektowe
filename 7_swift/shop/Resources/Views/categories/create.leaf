@@ -1,0 +1,12 @@
+#extend("base"):
+
+#export("content"):
+    <h1>Add category</h1>
+    <form action="/categories" method="POST">
+        <label for="name">Category name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Add category</button>
+    </form>
+    <a href="/categories">Back to categories</a>
+#endexport
+#endextend

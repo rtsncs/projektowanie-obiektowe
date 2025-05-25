@@ -1,0 +1,19 @@
+#extend("base"):
+
+#export("content"):
+    <h1>#(category.name)</h1>
+    <h2>Products in this category:</h2>
+    <ul>
+        #for(product in category.products):
+            <li>
+                <a href="/products/#(product.id)">#(product.name) - $#(product.price)</a>
+            </li>
+        #endfor
+    </ul>
+    <a href="/categories/#(category.id)/edit">Edit</a>
+    <form action="/categories/#(category.id)/delete" method="POST">
+        <button type="submit" >Delete</button>
+    </form>
+    <a href="/categories/create">Add new category</a>
+#endexport
+#endextend

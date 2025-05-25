@@ -1,0 +1,14 @@
+#extend("base"):
+
+#export("content"):
+    <h1>Categories</h1>
+    <ul>
+        #for(category in categories):
+            <li>
+                <a href="/categories/#(category.id)">#(category.name)</a>
+            </li>
+        #endfor
+    </ul>
+    <a href="/categories/create">Add new category</a>
+#endexport
+#endextend

@@ -1,0 +1,13 @@
+#extend("base"):
+
+#export("content"):
+    <h1>#(product.name)</h1>
+    <p>Category: <a href="/categories/#(product.category.id)">#(product.category.name)</a></p>
+    <p>Price: $#(product.price)</p>
+    <a href="/products/#(product.id)/edit">Edit</a>
+    <form action="/products/#(product.id)/delete" method="POST">
+        <button type="submit" >Delete</button>
+    </form>
+    <a href="/products">Back to products</a>
+#endexport
+#endextend

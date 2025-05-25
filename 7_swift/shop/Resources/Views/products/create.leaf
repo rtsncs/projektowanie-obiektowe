@@ -1,0 +1,28 @@
+#extend("base"):
+
+#export("content"):
+    <h1>Add product</h1>
+    <form action="/products" method="POST">
+        <div>
+            <label for="name">Product name:</label>
+            <input type="text" id="name" name="name" required>
+        </div>
+        <div>
+            <label for="price">Price:</label>
+            <input type="number" id="price" name="price" step="0.01" required>
+        </div>
+
+        <div>
+            <label for="category">Category:</label>
+            <select name="category" id="category">
+                #for(category in categories):
+                    <option value="#(category.id)">#(category.name)</option>
+                #endfor
+            </select>
+        </div>
+
+        <button type="submit">Add product</button>
+    </form>
+    <a href="/products">Back to Products</a>
+#endexport
+#endextend
