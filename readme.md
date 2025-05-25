@@ -81,3 +81,17 @@
 :white_check_mark: 5.0 [Zredukować duplikaty kodu do 0%](https://github.com/rtsncs/shop-frontend/commit/ae102e4a79073dbe47a4709295a4f32e7daf3795)
 
 [Kod](https://github.com/rtsncs/shop-frontend)
+
+**Zadanie 7** Swift
+
+:white_check_mark: 3.0 [Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w ORM Fluent](https://github.com/rtsncs/projektowanie-obiektowe/commit/1a3c629504dcd6e2426849c1d2c1483fce1b3b49)
+
+:white_check_mark: 3.5 [Należy stworzyć szablony w Leaf](https://github.com/rtsncs/projektowanie-obiektowe/commit/1a3c629504dcd6e2426849c1d2c1483fce1b3b49)
+
+:white_check_mark: 4.0 [Należy stworzyć drugi model oraz kontroler Kategorii wraz z relacją](https://github.com/rtsncs/projektowanie-obiektowe/commit/1a3c629504dcd6e2426849c1d2c1483fce1b3b49)
+
+:x: 4.5 Należy wykorzystać Redis do przechowywania danych
+
+:x: 5.0 Wrzucić aplikację na heroku
+
+[Kod](https://github.com/rtsncs/projektowanie-obiektowe/tree/master/7_swift)
