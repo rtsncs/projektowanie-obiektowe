@@ -95,3 +95,17 @@
 :x: 5.0 Wrzucić aplikację na heroku
 
 [Kod](https://github.com/rtsncs/projektowanie-obiektowe/tree/master/7_swift)
+
+**Zadanie 8** Testy
+
+:white_check_mark: 3.0 [Należy stworzyć 30 przypadków testowych w Pythonie w WebDriverze](https://github.com/rtsncs/projektowanie-obiektowe/commit/b55f748df9167f52d49af6ceab354a075401c9c1)
+
+:x: 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 100 asercji
+
+:x: 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego projektu z minimum 100 asercjami
+
+:x: 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint
+
+:x: 5.0 Należy uruchomić testy funkcjonalne na Browserstacku na urządzeniu mobilnym
+
+[Kod](https://github.com/rtsncs/projektowanie-obiektowe/tree/master/8_testy)
