@@ -109,3 +109,18 @@
 :x: 5.0 Należy uruchomić testy funkcjonalne na Browserstacku na urządzeniu mobilnym
 
 [Kod](https://github.com/rtsncs/projektowanie-obiektowe/tree/master/8_testy)
+
+**Zadanie 9** Android
+
+:white_check_mark: [3.0 stworzyć listę kategorii oraz produktów](https://github.com/rtsncs/projektowanie-obiektowe/commit/0be15a0e175f962677a3549f7edf1380f9eea5ee)
+
+:white_check_mark: [3.5 dodać widok koszyka](https://github.com/rtsncs/projektowanie-obiektowe/commit/0be15a0e175f962677a3549f7edf1380f9eea5ee)
+
+:x: 4.0 stworzyć bazę w Realmie
+
+:x: 4.5 dodać płatności w Stripe
+
+:x: 5.0 dodać logowanie i rejestrację via Oauth2
+
+
+[Kod](https://github.com/rtsncs/projektowanie-obiektowe/tree/master/9_android)
